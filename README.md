@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="mailto:marselinojrg@gmail.com"><img src="https://img.shields.io/badge/-marselinojrg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marselinojrg@gmail.com" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/marcelino-jorgi-b28841219"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/marcelinojrg"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://marcelinojrg.dev/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.instagram.com/marcelinoji_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <!-- TODO: Replace the LinkedIn, Portfolio, and Instagram links above with your real URLs. -->
@@ -79,15 +79,6 @@ Core competencies:
 - Backend Development: Node.js, Express, Laravel, PHP, REST API design and authentication
 - Databases: MySQL, PostgreSQL, MongoDB, Prisma ORM, database design and integration
 - Workflow: Git, GitHub, Docker, code review, debugging, technical documentation
-
----
-
-## Contact
-
-- Email: marselinojrg@gmail.com
-- GitHub: https://github.com/marcelinojrg
-- LinkedIn: https://www.linkedin.com/ (TODO: replace with your real profile URL)
-- Portfolio: (TODO: add your portfolio URL)
 
 ---
 
