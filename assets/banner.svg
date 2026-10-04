@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="40" y="232" width="220" height="6" rx="3" fill="url(#accent)"/>
+  <text x="40" y="120" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Hi there, I'm Marcelino 👋</text>
+  <text x="42" y="170" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="400" fill="#c9d1d9">Full-Stack Developer — building clean, fast web experiences.</text>
+  <text x="42" y="208" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" fill="#8b949e">Web Development • Open Source • Learning in public</text>
+  <circle cx="1090" cy="90" r="52" fill="none" stroke="#58a6ff" stroke-width="3" opacity="0.9"/>
+  <text x="1090" y="108" font-family="Segoe UI, Arial, sans-serif" font-size="48" text-anchor="middle" fill="#58a6ff">&lt;/&gt;</text>
+</svg>
